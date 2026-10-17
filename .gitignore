@@ -1,0 +1,8 @@
+# Hytale server API is supplied by the developer locally; do not redistribute it
+libs/HytaleServer.jar
+libs/HytaleServer*.jar
+**/libs/HytaleServer*.jar
+*.class
+.gradle/
+build/
+**/build/
